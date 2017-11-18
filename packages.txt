@@ -1,0 +1,35 @@
+# Development tools
+git
+vim
+gcc
+clang
+cpp
+valgrind
+emacs
+
+# Remote tools
+screen
+at
+openssh-server
+nmap
+wireshark
+apache2
+#mosh?
+
+# Monitoring and Hardware tools
+htop
+xrandr
+smartmontools
+
+# Disassembling tools
+ltrace
+#strings?
+
+# Other tools
+expect
+texlive
+gzip
+bzip2
+krb5-kdc
+krb5-locales
+zsh
