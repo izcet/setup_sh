@@ -11,8 +11,6 @@ emacs
 screen
 at
 openssh-server
-nmap
-wireshark
 apache2
 #mosh?
 
@@ -24,9 +22,16 @@ smartmontools
 # Disassembling tools
 ltrace
 #strings?
+radare2
+
+# Blackhat tools
+nmap
+wireshark
+hashcat
 
 # Other tools
 expect
+readlink
 texlive
 gzip
 bzip2
