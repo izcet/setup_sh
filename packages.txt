@@ -6,6 +6,7 @@ clang
 cpp
 valgrind
 emacs
+colordiff
 
 # Remote tools
 screen
