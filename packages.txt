@@ -39,3 +39,4 @@ bzip2
 krb5-kdc
 krb5-locales
 zsh
+tree
