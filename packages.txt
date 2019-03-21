@@ -22,7 +22,7 @@ smartmontools
 
 # Disassembling tools
 ltrace
-#strings?
+strings
 radare2
 
 # Blackhat tools
@@ -40,3 +40,8 @@ krb5-kdc
 krb5-locales
 zsh
 tree
+xclip
+xsel
+
+# Privacy tools
+openvpn
